@@ -1,0 +1,3 @@
+rosii,15%
+cafea,45%
+carne de porc,12%

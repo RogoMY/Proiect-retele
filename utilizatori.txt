@@ -1,0 +1,7 @@
+Nume: bob,Parola:parola123,NumarTelefon:test@mail.com,Mail:0782312341,Tip_Client:client
+Nume: rogomy,Parola:123parola112,NumarTelefon:mail@mail.com,Mail:07821234512,Tip_Client:client
+Nume: bobita,Parola:1234,NumarTelefon:mail@mail.com,Mail:0781234512,Tip_Client:companie_caritabila
+Nume: utilizor123,Parola:parolalacont,NumarTelefon:mail@mcmail.com,Mail:0782341223,Tip_Client:magazin_alimentar
+Nume: Kaufland,Parola:parola123parola,NumarTelefon:mail@mail.com,Mail:0723123412,Tip_Client:magazin_alimentar
+Nume: LIDL,Parola:profi,NumarTelefon:mail@mcmail.com,Mail:0123451234,Tip_Client:magazin_alimentar
+Nume: Bistro,Parola:123456,NumarTelefon:bistro@mail.com,Mail:0781239421,Tip_Client:restaurant

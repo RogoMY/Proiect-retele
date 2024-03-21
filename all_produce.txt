@@ -1,0 +1,13 @@
+utilizor123 cafea,100
+utilizor123 pastarnac,10
+utilizor123 banane,30
+Kaufland rosii,100000
+Kaufland cafea,1052
+Kaufland mango,100
+LIDL rosii,100
+LIDL neo,12
+LIDL Wrap de pui,10
+Kaufland rosii,100
+Kaufland cafea,15
+Kaufland Paine,20
+Kaufland Apa plata,60
